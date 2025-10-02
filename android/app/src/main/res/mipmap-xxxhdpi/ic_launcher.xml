@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    
+    <!-- Background circle -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M24,24m-24,0a24,24 0,1 1,48 0a24,24 0,1 1,-48 0" />
+    
+    <!-- Checkmark -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M14,24 L20,30 L34,16" />
+    
+    <!-- Todo list lines -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,12 L36,12 L36,13.5 L12,13.5 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,36 L36,36 L36,37.5 L12,37.5 Z" />
+</vector>
