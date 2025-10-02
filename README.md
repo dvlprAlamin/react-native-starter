@@ -104,8 +104,8 @@ to-do-app/
 
 1. **Clone the repository:**
 ```bash
-git clone <repository-url>
-cd to-do-app
+git clone https://github.com/dvlprAlamin/react-native-starter.git
+cd react-native-starter
 ```
 
 2. **Install dependencies:**
